@@ -1,6 +1,6 @@
 //Your basic "Hello World" program
 
 void main(){
-	printf("Hello World");
+	printf("Hello World, Hello Mom!");
 }
 
